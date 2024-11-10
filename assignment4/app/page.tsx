@@ -2,8 +2,8 @@ import React from 'react';
 import StudentCard from './components/StudentCard';
 
 const students = [
-  { name: 'Mujtaba Chandio', age: 20, rollNumber: '43160', studentClass: '12th Grade' },
-  { name: 'Ali imran', age: 20, rollNumber: '5685', studentClass: '12th Grade' },
+  { name: 'hafiz aqib', age: 20, rollNumber: '43160', studentClass: '12th Grade' },
+  { name: 'muhammad hussain', age: 20, rollNumber: '5685', studentClass: '12th Grade' },
   { name: 'Akram', age: 15, rollNumber: '6969', studentClass: '12th Grade' },
 ];
 

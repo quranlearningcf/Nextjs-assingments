@@ -17,7 +17,7 @@ export default function About() {
             About Me
           </h2>
           <p className="mb-4">
-            Hi, I'm Mujtaba Chandio, a passionate developer with a keen interest in building dynamic and efficient web applications. With a strong foundation in JavaScript, TypeScript, Python, and frameworks like React and Next.js, I strive to create seamless user experiences that combine functionality with aesthetic appeal.
+            Hi, I'm hafiz aqib, a passionate developer with a keen interest in building dynamic and efficient web applications. With a strong foundation in JavaScript, TypeScript, Python, and frameworks like React and Next.js, I strive to create seamless user experiences that combine functionality with aesthetic appeal.
           </p>
           <p className="mb-4">
             My journey in technology began with a fascination for coding and problem-solving. Over the years, I have honed my skills through various projects, ranging from e-commerce websites to data-driven applications. I believe that technology has the power to transform lives, and I aim to be at the forefront of this revolution by leveraging AI and machine learning in my work.

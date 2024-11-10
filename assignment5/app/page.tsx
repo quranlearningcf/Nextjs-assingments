@@ -21,7 +21,7 @@ export default function Home() {
           animate={{ y: 0 }}
           transition={{ duration: 1, delay: 0.5 }}
         >
-          Hi, I'm Mujtaba Chandio
+          Hi, I'm hafiz aqib
         </motion.h1>
 
         {/* Updated Subheading */}
